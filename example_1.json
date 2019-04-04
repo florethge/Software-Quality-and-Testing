@@ -1,23 +1,21 @@
-[
-    {
-      "name":"Emanuel",
-      "hobby":"Programming",
-      "age":20,
-      "phone":1234567890,
-      "address":"330 Highland Rd W"
-    },
-    {
-      "name":"Memo",
-      "hobby":"Sinnging",
-      "age":25,
-      "phone":1234567890,
-      "address":"228 Bellargio Rd E"
-    },
-    {
-      "name":"Gina",
-      "hobby":"Dancing",
-      "age":19,
-      "phone":1234567890,
-      "address":"1256 Rymal Rd E"
-    }
-  ]
+[{
+  "name":"Emanuel",
+  "hobby":"Programming",
+  "age":"20",
+  "phone":"1234567890",
+  "address":"330 Highland Rd W"
+},
+{
+  "name":"Memo",
+  "hobby":"Sinnging",
+  "age":25,
+  "phone": "1234567890",
+  "address":"228 Bellargio Rd E"
+},
+{
+  "name":"Gina",
+  "hobby":"Dancing",
+  "age": "19",
+  "phone": "1234567890",
+  "address":"1256 Rymal Rd E"
+}  ]
